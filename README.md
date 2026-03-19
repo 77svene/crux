@@ -25,3 +25,6 @@
 
 > High-performance graph memory layer for AI agents.
 ```
+
+## Use Case
+Self-improving AI system core for revenue automation and agent evolution - free tier with daily limits.
