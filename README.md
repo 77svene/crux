@@ -28,3 +28,7 @@
 
 ## Use Case
 Self-improving AI system core for revenue automation and agent evolution - free tier with daily limits.
+
+## Monetization
+Free tier with usage limits (e.g. 5 uses/day)
+Upgrade for unlimited - use Stripe, NOT crypto
