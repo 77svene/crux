@@ -32,3 +32,6 @@ Self-improving AI system core for revenue automation and agent evolution - free 
 ## Monetization
 Free tier with usage limits (e.g. 5 uses/day)
 Upgrade for unlimited - use Stripe, NOT crypto
+
+## Free Tier + Stripe
+Free tier with usage limits (5 uses/day). Upgrade for unlimited access using Stripe (no crypto).
